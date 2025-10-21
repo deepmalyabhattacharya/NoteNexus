@@ -26,25 +26,6 @@ Edit existing notes
 Delete notes they no longer need
 
 It is built using Flask for the backend, SQLite for the database, and HTML, CSS, and JavaScript for the frontend. This project demonstrates my understanding of web development, databases, CRUD operations, and authentication.
----
-####  Prjoect Structure:
-│
-├── static/
-│   ├── statics.js          # JavaScript for client-side interactivity
-│   └── styles.css          # Custom styling for the web app
-│
-├── templates/
-│   ├── layout.html         # Base HTML layout (header, footer, etc.)
-│   ├── index.html          # Main page displaying user’s notes
-│   ├── login.html          # Login form page
-│   └── register.html       # Registration form page
-│
-├── app.py                  # Main Flask application file
-├── project.db              # SQLite database storing users and notes
-├── README.md               # Documentation file
-└── requirements.txt        # Python dependencies
-
----
 ####  Technologies Used:
 - **Frontend**
 
